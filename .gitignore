@@ -1,0 +1,12 @@
+/.metadata/
+/*/.settings/
+/*/target/
+/*/src/main/java/META-INF/
+.mymetadata
+.classpath
+.project
+.properties
+/*/build/classes/
+/*/src/META-INF/
+*.iml
+*.idea
